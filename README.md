@@ -26,7 +26,7 @@ Additionaly system should provide periodical reports about customer orders.
 * The solution should be implemented using .NET (ideally LTS)
 
 ## Bonus points stuff
-* **REST**ful API
+* RESTful API
 * Documentation generated from code (hint - Swagger)
 * Automated tests
 * Containerization/deployment (hint - Docker compose)
