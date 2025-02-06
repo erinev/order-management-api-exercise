@@ -2,7 +2,10 @@
 
 # Problem statement
 
-A retailer company is looking to develop an order management system to streamline their order processing and inventory management. Your task is to build an API that handles customer orders, processes them, and stores the information in a database. Additionaly system should provide periodical reports about customer orders.
+A retailer company is looking to develop an order management system to streamline their order processing and inventory management. 
+
+Your task is to build an API that handles customer orders, processes them, and stores the information in a database. 
+Additionaly system should provide periodical reports about customer orders.
 
 # Requirements
 
