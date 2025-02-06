@@ -16,7 +16,7 @@ A retailer company is looking to develop an Order Management System (OMS) to str
 * As a retailer I can retrieve completed orders reports. Report should show total items quantity and amount per customer. 
 
 ## Non-Functional
-* Orders report should be updated periodically (every 2 minutes)
+* Reports should be updated periodically (every 2 minutes)
 * Ensure that requests coming from API users are valid
 * Include prerequisites and steps to launch in README
 * The solution code must be in a git repository
