@@ -12,25 +12,25 @@ Additionaly system should provide periodical reports about customer orders.
 **Hint**: Some requirements are open ended so you can implement them in a way that you think would be most convinient for the system user.
 
 ## Functional
-* As a retailer I can create new order with list of items. Items should have quantity and price.
-* As a retailer I can retrieve list of all orders.
-* As a retailer I can retrieve single order.
-* As a warehouse worker I can update order status from new->in progress->completed
-* As a retailer I can retrieve completed orders reports. Report should show total items quantity and amount per customer. 
+* As a retailer I can **create** new order with list of items. Items should have **quantity** and **price**.
+* As a retailer I can **retrieve list** of orders.
+* As a retailer I can **retrieve single** order.
+* As a warehouse worker I can **update** order **status** in the following sequence `new-> in progress -> completed`
+* As a retailer I can **retrieve reports for completed orders**. Report should show **total** items **quantity** and **amount** per **customer**. 
 
 ## Non-Functional
-* Reports should be updated periodically (every 2 minutes)
-* Ensure that requests coming from API users are valid
+* **Reports** should be **updated** **periodically** (every 2 minutes)
+* Ensure that user can send only **valid requests** to API
 * Include prerequisites and steps to launch in README
 * The solution code must be in a git repository
-* The API should be implemented using .NET (ideally LTS)
+* The solution should be implemented using .NET (ideally LTS)
 
 ## Bonus points stuff
-* RESTful API
+* **REST**ful API
 * Documentation generated from code (hint - Swagger)
 * Automated tests
 * Containerization/deployment (hint - Docker compose)
-* Performance considerations
+* Think about performance considerations
 * Comments/thoughts on the decisions you made
 
 # Time for solution
