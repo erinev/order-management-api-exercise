@@ -4,7 +4,7 @@
 
 A retailer company is looking to develop an order management system to streamline their order processing and inventory management. 
 
-Your task is to build an API that handles customer orders, processes them, and stores the information in a database. 
+Your task is to build an API that handles customer orders, processes them, and stores the information in the system. 
 Additionaly system should provide periodical reports about customer orders.
 
 # Requirements
@@ -19,8 +19,9 @@ Additionaly system should provide periodical reports about customer orders.
 * As a retailer I can **retrieve reports for completed orders**. Report should show **total** items **quantity** and **amount** per **customer**. 
 
 ## Non-Functional
-* **Reports** should be **updated** **periodically** (every 2 minutes)
+* System must use some kind of **persistence layer** for orders and reports.
 * Ensure that user can send only **valid requests** to API
+* **Reports** should be **updated** **periodically** (every 2 minutes)
 * Include prerequisites and steps to launch in README
 * The solution code must be in a git repository
 * The solution should be implemented using .NET (ideally LTS)
