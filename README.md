@@ -17,7 +17,7 @@ Additionaly system should provide capabilities to do reports about ordered produ
 * As a retailer I can **apply discount** for **product**. Discount has two settings: **percentage** value of discount and **quantity of products** from which discount will be applied.
 * As a retailer I can **create** new **order** with list of products. Each product should have **quantity** of items ordered.
 * As a retailer I can retrieve **list** of **orders**.
-* As a retailer I can retrieve **order invoice**. Invoice should contain list of products where **each product** has: **name**, **quantity**, **applied discount**, **amount** ($) and show **total amount** ($) to pay for all products.
+* As a retailer I can retrieve **order invoice**. Invoice should contain list of products where `each product` has **name**, **quantity**, **applied discount**, **amount** ($) and additionally show **total amount** ($) to pay for all products.
 * As a retailer I can retrieve **reports** for each **discounted product**. Report should show `discounted product` **name**, **discount** (%), **number of orders** that includes this discounted product and **total amount** ($) ordered of this discounted product.
 
 ## Non-Functional
