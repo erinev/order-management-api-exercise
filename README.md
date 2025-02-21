@@ -22,7 +22,7 @@ Additionaly system should provide capabilities to do reports about ordered produ
 
 ## Non-Functional
 * System must use some kind of **persistence layer**.
-* Ensure that user can send only **valid requests** to API.
+* Ensure that user can send **valid requests** to API.
 * Include prerequisites and steps to launch in README.
 * The solution code must be in a git repository.
 * The solution should be implemented using .NET (ideally LTS).
@@ -34,6 +34,7 @@ Additionaly system should provide capabilities to do reports about ordered produ
 * API Documentation generated from code (hint - `Swagger`).
 * Containerization/deployment (hint - `Docker compose`).
 * Code is structured using some known architecture (e.g.: NTier, Onion, etc.).
+* Continuous integration (CI).
 * Comments/thoughts on the decisions you made.
 
 # Time for solution
