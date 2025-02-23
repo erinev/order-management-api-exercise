@@ -35,7 +35,7 @@ Additionaly system should provide capabilities to do reports about ordered produ
 * Containerization/deployment (hint - `Docker compose`).
 * Code is structured using some known architecture (e.g.: NTier, Onion, etc.).
 * Continuous integration (CI).
-* Progess of you work (hint - `commits`).
+* Progess of you work (hint - `Commits`).
 * Comments/thoughts on the decisions you made.
 
 # Time for solution
