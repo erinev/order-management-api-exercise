@@ -25,7 +25,7 @@ Additionaly system should provide capabilities to do reports about ordered produ
 * API should not accept **invalid requests**.
 * Include prerequisites and steps to launch in **README**.
 * The solution code must be in a **git repository**.
-* The solution should be implemented using .NET (ideally `LTS`).
+* The solution should be implemented using **.NET** (ideally `LTS`).
 
 ## Bonus points stuff
 * Automated tests.
