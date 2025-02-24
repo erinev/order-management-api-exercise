@@ -21,7 +21,7 @@ Additionaly system should provide capabilities to do reports about ordered produ
 * As a retailer I can retrieve **reports** for each **discounted product**. Report should show `discounted product` **name**, **discount (%)**, **number of orders** that includes this discounted product and **total amount** ($) ordered of this discounted product.
 
 ## Non-Functional
-* System must use some kind of **persistence layer**.
+* System should use **persistence layer** (Mongo or Postgres).
 * Ensure that user can send **valid requests** to API.
 * Include prerequisites and steps to launch in README.
 * The solution code must be in a git repository.
@@ -31,11 +31,11 @@ Additionaly system should provide capabilities to do reports about ordered produ
 * Automated tests.
 * RESTful API.
 * Think about performance considerations (e.g.: system overtime will have big number of orders).
-* API Documentation generated from code (hint - `Swagger`).
-* Containerization/deployment (hint - `Docker compose`).
+* API Documentation generated from code (hint - `swagger`).
+* Containerization/deployment (hint - `docker compose`).
 * Code is structured using some known architecture (e.g.: NTier, Onion, etc.).
 * Continuous integration (CI).
-* Progess of you work (hint - `Commits`).
+* Progess of you work (hint - `commits strategy`).
 * Comments/thoughts on the decisions you made.
 
 # Time for solution
