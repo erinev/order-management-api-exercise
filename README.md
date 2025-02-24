@@ -21,11 +21,11 @@ Additionaly system should provide capabilities to do reports about ordered produ
 * As a retailer I can retrieve **reports** for each **discounted product**. Report should show `discounted product` **name**, **discount (%)**, **number of orders** that includes this discounted product and **total amount** ($) ordered of this discounted product.
 
 ## Non-Functional
-* System should use **persistence layer** (Mongo or Postgres).
+* System should use **persistence layer** (`Mongo` or `Postgres`).
 * API should not accept **invalid requests**.
-* Include prerequisites and steps to launch in README.
-* The solution code must be in a git repository.
-* The solution should be implemented using .NET (ideally LTS).
+* Include prerequisites and steps to launch in **README**.
+* The solution code must be in a **git repository**.
+* The solution should be implemented using .NET (ideally `LTS`).
 
 ## Bonus points stuff
 * Automated tests.
