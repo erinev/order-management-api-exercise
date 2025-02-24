@@ -22,7 +22,7 @@ Additionaly system should provide capabilities to do reports about ordered produ
 
 ## Non-Functional
 * System should use **persistence layer** (Mongo or Postgres).
-* Ensure that user can send **valid requests** to API.
+* API should not accept **invalid requests**.
 * Include prerequisites and steps to launch in README.
 * The solution code must be in a git repository.
 * The solution should be implemented using .NET (ideally LTS).
