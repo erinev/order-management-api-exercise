@@ -1,4 +1,4 @@
-# order-management-exercise
+# order-management-api-exercise
 
 # Problem statement
 
