@@ -21,10 +21,10 @@ Additionally, the system should provide capabilities to generate reports about o
 * As a retailer, I can retrieve **reports** for each **discounted product**. The report should show the discounted product `name`, `discount (%)`, `number of orders` that include this discounted product, and `total amount` ($) ordered of this discounted product;
 
 ## Non-Functional
+* The solution code must be in a **Git repository**;
+* Include prerequisites and steps to launch in the **README**;
 * The system should use a **persistence layer** (`Mongo` or `Postgres`);
 * The API should not accept **invalid requests**;
-* Include prerequisites and steps to launch in the **README**;
-* The solution code must be in a **git repository**;
 * The solution should be implemented using **.NET** (ideally `LTS`);
 
 ## Bonus points stuff
@@ -37,6 +37,7 @@ Additionally, the system should provide capabilities to generate reports about o
 * **Continuous integration** (CI);
 * **Progress of your work** (hint - `commits strategy`);
 * **Comments/thoughts** on the decisions you made;
+* **Create GraphQL Endpoint** which allows to create new product; 
 
 # Time for solution
 
