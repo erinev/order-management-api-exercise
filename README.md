@@ -37,7 +37,9 @@ Additionally, the system should provide capabilities to generate reports about o
 * **Continuous integration** (CI);
 * **Progress of your work** (hint - `commits strategy`);
 * **Comments/thoughts** on the decisions you made;
-* **Create GraphQL endpoint** which allows to create new product; 
+* **Logging** (hint: `Serilog`);
+* **Create GraphQL endpoint** which allows to create new product;
+* **Monitoring / Metrics** (hint: `Prometheus`);
 
 # Time for solution
 
