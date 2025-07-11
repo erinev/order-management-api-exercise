@@ -31,6 +31,7 @@ Additionally, the system should provide capabilities to generate reports about o
 * **Automated tests**;
 * **RESTful** API;
 * Think about **performance considerations** (e.g., the system over time will have a large number of orders);
+* **Pagination support**
 * **API Documentation** generated from code (hint - `swagger`);
 * **Containerization/deployment** (hint - `docker compose`);
 * Code is structured using some known **architecture** (e.g., NTier, Onion, etc.);
