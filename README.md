@@ -24,6 +24,7 @@ Additionally, the system should provide capabilities to generate reports about o
 * The solution code must be in a **Git repository**;
 * Include prerequisites and steps to launch in the **README**;
 * The system should use a **persistence layer** (`Mongo` or `Postgres`);
+  * **Note**: If you will be using `Entity Framework` please make sure that business layer is not refferencing it.
 * The API should not accept **invalid requests**;
 * The solution should be implemented using **.NET** (ideally `LTS`);
 
