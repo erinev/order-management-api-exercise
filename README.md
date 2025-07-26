@@ -18,7 +18,7 @@ Additionally, the system should provide capabilities to generate reports about o
 * As a retailer, I can **create** new **orders** with a list of products. Each product should have a `quantity` of items ordered;
 * As a retailer, I can retrieve a **list** of **orders**;
 * As a retailer, I can retrieve an **order invoice**. The invoice should contain a list of products where each product has a `name`, `quantity`, `discount (%)` (if applicable), `amount` ($), and additionally show the `total amount` ($) to pay for all products;
-* As a retailer, I can retrieve **reports** for each **discounted product**. The report should show the discounted product `name`, `discount (%)`, `number of orders` that include this discounted product, and `total amount` ($) ordered of this discounted product;
+* As a retailer, I can retrieve **report** for **discounted product**. The report should show the discounted product `name`, `discount (%)`, `number of orders` that include this discounted product, and `total amount` ($) ordered of this discounted product;
 
 ## Non-Functional
 * The solution code must be in a **Git repository**;
