@@ -30,18 +30,15 @@ Additionally, the system should provide capabilities to generate reports about o
 
 ## Bonus points stuff
 * **Automated tests**;
-* **RESTful** API;
-* Think about **performance considerations** (e.g., the system over time will have a large number of orders);
-* **Pagination support**
 * **API Documentation** generated from code (hint - `Swagger`);
 * **Containerization/deployment** (hint - `Docker Compose`);
+* **RESTful** API;
 * Code is structured using some known **architecture** (e.g., NTier, Onion, etc.);
-* **Continuous integration** (CI. hint - `GitHub Actions`;
 * **Progress of your work** (hint - `commits strategy`);
+* Think about **performance considerations** (e.g., the system over time will have a large number of orders);
+* **Pagination support**
+* **Continuous integration** (CI. hint - `GitHub Actions`);
 * **Comments/thoughts** on the decisions you made;
-* **Logging** (hint: `Serilog`);
-* **Create GraphQL endpoint** which allows to create new product;
-* **Monitoring / Metrics** (hint: `Prometheus`);
 
 # Time for solution
 
