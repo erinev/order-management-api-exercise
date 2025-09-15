@@ -36,9 +36,9 @@ Additionally, the system should provide capabilities to generate reports about o
 * Code is structured using some known **architecture** (e.g., NTier, Onion, etc.);
 * Think about **performance considerations** (e.g., the system over time will have a large number of orders);
 * **Pagination support**;
-* **Continuous integration** (CI. hint - `GitHub Actions`);
 * **Progress of your work** (hint - `commits strategy`);
 * **Comments/thoughts** on the decisions you made;
+* **Continuous integration** (CI. hint - `GitHub Actions`);
 
 # Time for solution
 
