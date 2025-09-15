@@ -34,10 +34,10 @@ Additionally, the system should provide capabilities to generate reports about o
 * **Containerization/deployment** (hint - `Docker Compose`);
 * **RESTful** API;
 * Code is structured using some known **architecture** (e.g., NTier, Onion, etc.);
-* **Progress of your work** (hint - `commits strategy`);
 * Think about **performance considerations** (e.g., the system over time will have a large number of orders);
-* **Pagination support**
+* **Pagination support**;
 * **Continuous integration** (CI. hint - `GitHub Actions`);
+* **Progress of your work** (hint - `commits strategy`);
 * **Comments/thoughts** on the decisions you made;
 
 # Time for solution
