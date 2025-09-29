@@ -31,7 +31,7 @@ Additionally, the system should provide capabilities to generate reports about o
 ## Bonus points stuff
 * **Automated tests**;
 * **API Documentation** generated from code (hint - `Swagger`);
-* **Containerization/deployment** (hint - `Docker Compose`);
+* **Containerization** (hint - `Docker Compose` for easier local setup/testing);
 * **RESTful** API;
 * Code is structured using some known **architecture** (e.g., NTier, Onion, etc.);
 * Think about **performance considerations** (e.g., the system over time will have a large number of orders);
