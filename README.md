@@ -23,15 +23,15 @@ Additionally, the system should provide capabilities to generate reports about o
 ## Non-Functional
 * The solution code must be in a **Git repository**;
 * Include prerequisites and steps to launch in the **README**;
+* Use **Containerization** (hint - `Docker Compose`) for easier local setup/testing;
 * The system should use a **persistence layer** (`Mongo` or `Postgres`);
-  * **Note**: If you will be using `Entity Framework` please make sure that business layer is not refferencing it.
+  * **Note**: If you will be using `Entity Framework` please make sure that business layer is not refferencing it;
 * The API should not accept **invalid requests**;
 * The solution should be implemented using **.NET** (ideally `LTS`);
 
 ## Bonus points stuff
 * **Automated tests**;
 * **API Documentation** generated from code (hint - `Swagger`);
-* **Containerization** (hint - `Docker Compose` for easier local setup/testing);
 * **RESTful** API;
 * Code is structured using some known **architecture** (e.g., NTier, Onion, etc.);
 * Think about **performance considerations** (e.g., the system over time will have a large number of orders);
